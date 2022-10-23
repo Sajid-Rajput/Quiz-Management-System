@@ -1,0 +1,14 @@
+
+			                            ---------------------------------------
+			                            |             QUIZ REPORT             |
+			                            ---------------------------------------
+First Name: Sajid
+Last Name: Khan
+
+Marks obtained in Question No. 1 are: 0
+Marks obtained in Question No. 2 are: 10
+Marks obtained in Question No. 3 are: 0
+Marks obtained in Question No. 4 are: 0
+Marks obtained in Question No. 5 are: 10
+
+Total Obtained Marks: 20/60
